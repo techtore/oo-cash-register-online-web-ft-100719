@@ -20,6 +20,6 @@ class CashRegister
     end
     
   def items(title) 
-  add_item(title)
+    add_item(title)
   end 
 end
